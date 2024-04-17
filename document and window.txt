@@ -1,0 +1,17 @@
+Document Object :
+
+        The Document object represents the web page itself. It serves as a container for all the content that is displayed within the browser. When you access the Document object.
+        
+        1. DOM Manipulation: The Document object allows developers to manipulate the structure and content of a web page using JavaScript. You can add, modify, or remove elements, 
+        2. Access to Elements: It provides methods to access and select specific HTML elements within the page, making it possible to target and modify specific parts of the content.
+        3. Forms and Inputs: It allows you to interact with HTML forms, read input values, and submit data to a server.
+
+Window Object : 
+
+        While the Document object focuses on the content within the web page, the Window object represents the browser window or tab that displays the web page.
+
+        1. Global Scope: The Window object is global in scope, meaning you can access it from anywhere in your JavaScript code. This makes it a central hub for managing browser-related operations.
+        2. Navigation: It handles browser navigation, enabling you to change the URL, open new windows or tabs, and manipulate the browser's history.
+        3. Window Size and Position: You can control the size and position of the browser window or tab using the Window object.
+
+
